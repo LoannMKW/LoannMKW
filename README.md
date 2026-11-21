@@ -18,7 +18,7 @@ Je possède également une chaîne YouTube comptant 4k abonnés, ou je fait prin
 Voici mon serveur personnel : venez discuter, jouer, être aidé et chiller ensemble !  
 
 <p align="center">
-  <a href="https://discord.gg/loannnnnn-s-community-1409245512904872141" target="_blank">
+  <a href="https://discord.com/invite/AQ7w57CKk8" target="_blank">
     <img src="https://img.shields.io/badge/Rejoindre_le_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </p>
